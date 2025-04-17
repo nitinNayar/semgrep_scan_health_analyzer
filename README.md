@@ -1,6 +1,6 @@
-# Semgrep Scan Health Analysis Tool
+# Semgrep Full Scan Health Analysis Tool
 
-This tool analyzes Semgrep scan data across all repositories in your organization, providing insights into scan success rates and repository health metrics.
+This tool analyzes Semgrep scan data across all repositories in your organization, providing insights into full scan success rates metrics.
 
 ## Features
 
